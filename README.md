@@ -17,3 +17,13 @@ b. In the Google Cloud Console, navigate to the "Kubernetes Engine" > "Clusters"
 section and click the "Connect" button next to your cluster
 ![Screenshot 2023-08-30 162526](https://github.com/syedmohaiman/isec6000-assignment1--task1/assets/37250700/8d9b30f8-1af9-415a-9b6c-fe0d300f14ec)
 ![Screenshot 2023-08-30 163908](https://github.com/syedmohaiman/isec6000-assignment1--task1/assets/37250700/cc920798-d0d0-4aca-b086-eae64b03ebb7)
+3. Set up a private GitHub repository to store your project files.
+4. a. Log in to your GitHub account (or create one if you don't have it).
+b. Click on the '+' icon at the top right corner of the GitHub dashboard and select
+"New repository."
+![Screenshot 2023-08-30 170306](https://github.com/syedmohaiman/isec6000-assignment1--task1/assets/37250700/8ab620f0-0bc3-440b-bf0f-3c7f7b6aa6ce)
+c. Choose a meaningful repository name for your ISEC6000 Secure DevOps project.
+d. Select "Public" for the repository visibility
+![Screenshot 2023-08-30 170423](https://github.com/syedmohaiman/isec6000-assignment1--task1/assets/37250700/e3dd6c3b-870a-41a1-b8d7-1964d8c05224)
+f. Click "Create repository."
+![Screenshot 2023-08-30 170505](https://github.com/syedmohaiman/isec6000-assignment1--task1/assets/37250700/3d75c047-fe57-4d2f-b0b9-56a3cd08809a)
