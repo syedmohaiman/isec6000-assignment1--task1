@@ -1,4 +1,5 @@
 # isec6000-assignment1--task1
+Task 1: Set Up Initial Infrastructure
 1. Create a Kubernetes Cluster on GKE (or equivalent tool)
 a. Log in to your Google Cloud Console.
 b.Navigate to the Kubernetes Engine section and click "Create Cluster."
